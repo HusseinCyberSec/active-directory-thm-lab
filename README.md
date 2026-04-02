@@ -115,7 +115,8 @@ Set-ADUser -ChangePasswordAtLogon $true
 
 ### TryHackMe Lab Completion
 
-![TryHackMe Completion](tryhackme.png)
+![Final](https://github.com/HusseinCyberSec/active-directory-thm-lab/blob/main/Lab_Pictures/tryhackme.PNG)
+
 
 * Successfully completed Active Directory lab environment
 * Demonstrated hands-on domain administration skills
